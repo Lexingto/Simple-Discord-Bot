@@ -1,5 +1,9 @@
+//Won't work due to Discord resetting token
+
+
 Go to the file it is located
 
 type node
 
 .load main.js (Botty bot is online should print out)
+
